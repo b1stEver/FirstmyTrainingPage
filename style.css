@@ -1,0 +1,49 @@
+header {
+    border: 1px solid gray;
+}
+
+main section {
+    border: 1px solid gray;
+    text-align: center;
+}
+
+footer {
+    border: 1px solid gray;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    list-style-type: none;
+    margin-left: 10px;
+}
+
+main section div h1 {
+    margin: 0px;
+}
+main section div h2 {
+    margin: 0px;
+}
+main section div h3 {
+    margin: 0px;
+}
+main section div p {
+    margin: 0px;
+}
+main section div ul {
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+}
+main section div {
+    padding: 30px;
+}
+
+img.profile {
+    border-radius: 50%;
+    width: 100px;
+}
+
+header img {
+    display: inline;
+}
